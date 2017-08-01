@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="q1">How much distance do you run daily?</string>
+    <string name="q2">Which sports do you play frequently?</string>
+    <string name="q3">How much TV do you watch everyday?</string>
+    <string name="q4">How much do you Exercise?</string>
+    <string name="save">save</string>
+    <string name="mins">mins</string>
+    <string name="km">km</string>
+    <string name="dummy_data">Dummy Data</string>
+    <string name="add_habit">Add Habit</string>
+    <string name="save_error">Error with saving the habit</string>
+    <string name="save_success">Error with saving the habit</string>
+</resources>
